@@ -10,8 +10,8 @@ Dată — 4 mai 2025
 ### Implementarea soluției
 
 <p> Rulând local script-ul Python checker.py, soluția obține maximul de 120p. Implementarea integrează algoritmi prezentați în cadrul cursului, laboratorului, cât și metode ilustrate în cadrul cerințelor acestei teme. Pentru a rezolva anumite subpuncte, au fost folosite funcții specifice limbajului Matlab, despre a căror funcționalitate am aflat de pe următoarele site-uri web: </p>
-- https://octave.sourceforge.io
-- https://stackoverflow.com/questions/46925290/random-shuffle-matlab
-- https://docs.octave.org/latest/
-
+- https://octave.sourceforge.io <br>
+- https://stackoverflow.com/questions/46925290/random-shuffle-matlab <br>
+- https://docs.octave.org/latest/ <br>
+<br>
 <b> Copyright 2025 © Andrei-Marcel Bădulescu. All rights reserved. </b>
