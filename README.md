@@ -1,13 +1,15 @@
-# Running the checker
+# Metode Numerice — Tema 1
 
-## Through Docker
+Soluție realizată de Andrei-Marcel Bădulescu, Universitatea Politehnica București <br>
+Dată — 4 mai 2025
 
-Use `./local.sh checker` to build the image and run the checker. This will take
-some time (~700 secons). In order to build the image and get output, you can
-do `./local.sh docker build` and then run the checker with `./local.sh checker`.
+### Prefață
 
-This is the environment used to automatically check your code.
+<p> Soluția respectă precizările și restricțiile impuse în cadrul cerințelor cu privire la coding style, necesitatea utilizării sau evitarea unor funcții din Matlab dar și a salvării într-un mod eficient din punct de vedere al memoriei anumite matrice (cu precădere cele din cadrul cerinței 1, unde numărul de elemente „folositoare” este mult mai mic decât numărul total de elemente pe care matricea ar putea să le conțină). Realizarea temei a durat aproximat 25 de ore, timp în care este inclusă și perioada aferentă documentării / aprofundării asupra anumitor concepte sau noțiuni necesare pentru rezolvarea acesteia. </p>
 
-## Manually
+### Implementarea soluției
 
-Go to the `checker` directory and run the `./checker.sh` script.
+<p> Rulând local script-ul Python checker.py, soluția obține maximul de 120p. Implementarea integrează algoritmi prezentați în cadrul cursului, laboratorului, cât și metode ilustrate în cadrul cerințelor acestei teme. Pentru a rezolva anumite subpuncte, au fost folosite funcții specifice limbajului Matlab, despre a căror funcționalitate am aflat de pe următoarele site-uri web: </p>
+- https://octave.sourceforge.io
+- https://stackoverflow.com/questions/46925290/random-shuffle-matlab
+- https://docs.octave.org/latest/
